@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm Ishwar Rajendra Bhalerao
 
-<!--
-**ishwarbhalerao0293/ishwarbhalerao0293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student (2026)  
+📍 Nashik, Maharashtra, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Engineering student passionate about Data Analytics. I enjoy solving problems using SQL and continuously improving my skills in Excel, Power BI, and Python.
+
+🎯 My goal is to become a Data Analyst in a top MNC.
+
+---
+
+## 🛠️ Skills
+
+- SQL
+- MySQL
+- Microsoft Excel
+- Power BI
+- Python (Basics)
+- Data Cleaning
+- Data Analysis
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Power BI Dashboards
+- Python for Data Analysis
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+🔹 Employee Database Analysis *(Coming Soon)*
+
+🔹 Sales Data Analysis *(Coming Soon)*
+
+🔹 E-Commerce Data Analysis *(Coming Soon)*
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering (Computer Engineering)**
+
+Shatabdi Institute of Engineering, Nashik
+
+**Graduation:** 2026
+
+**CGPA:** 7.00
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: **ishwarbnetwork@gmail.com**
+
+💼 LinkedIn:
+www.linkedin.com/in/ishwar-bhalerao-235564314
+
+🐙 GitHub:
+github.com/ishwarbhalerao0293
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
