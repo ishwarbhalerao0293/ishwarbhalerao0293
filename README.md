@@ -38,12 +38,7 @@ I'm a Computer Engineering student passionate about Data Analytics. I enjoy solv
 
 ## 📂 Projects
 
-🔹 Employee Database Analysis *(Coming Soon)*
-
-🔹 Sales Data Analysis *(Coming Soon)*
-
-🔹 E-Commerce Data Analysis *(Coming Soon)*
-
+🔹 Employee Database Analysis *
 ---
 
 ## 🎓 Education
@@ -54,7 +49,7 @@ Shatabdi Institute of Engineering, Nashik
 
 **Graduation:** 2026
 
-**CGPA:** 7.00
+**CGPA:** 6.33
 
 ---
 
